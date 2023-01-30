@@ -1,0 +1,9 @@
+Table {
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgba(0, 0, 0, 0.3);
+    box-shadow: 20px 20px 0 rgba(0, 0, 0, 0.3);
+    align-items: left;
+    flex-direction: column;
+    max-width: 1000px;
+    
+}
